@@ -16,3 +16,4 @@ int main()
         printf("not an alphabet");
     }
 }
+
